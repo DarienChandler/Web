@@ -377,3 +377,21 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 webdesign/.git_update.sh.swp
 Already up to date.
 Date : 09/04/2022 Time : 00.05.02
+[main 568c2fa] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+)
+ delete mode 100644 webdesign/.git_update.sh.swp
+Already up to date.
+Date : 09/04/2022 Time : 00.06.01
