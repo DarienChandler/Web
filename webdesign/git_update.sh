@@ -5,3 +5,4 @@ git add -A
 git  commit -a -m "Latest Index Update" 
 git pull origin main
 git push origin main
+echo date
