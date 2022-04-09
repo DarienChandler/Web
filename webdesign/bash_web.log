@@ -23,3 +23,8 @@ After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
 
 Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Already up to date.
