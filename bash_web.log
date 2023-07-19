@@ -1,0 +1,1937 @@
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Updating 45ec23a..b7b221b
+Updating 45ec23a..b7b221b
+Updating 45ec23a..b7b221b
+[main 3df17a8] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Already up to date.
+[main 56c69e4] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+Already up to date.
+[main 400e457] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 16 insertions(+)
+ create mode 100644 webdesign/.index.html.swp
+Already up to date.
+[main a7b5c2f] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+), 14 deletions(-)
+ delete mode 100644 webdesign/.index.html.swp
+Already up to date.
+[main b12dba4] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Merge made by the 'recursive' strategy.
+[main 977d25c] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+Already up to date.
+[main ec794c6] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Already up to date.
+[main 047778f] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Already up to date.
+[main 585c339] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Already up to date.
+[main e1ec526] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Already up to date.
+[main bd3362a] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 16 insertions(+)
+ create mode 100644 webdesign/.git_update.sh.swp
+Already up to date.
+[main 2bf1cb0] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+[main ede7fc1] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 16 insertions(+)
+Already up to date.
+[main 0876456] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 17 insertions(+)
+ delete mode 100644 webdesign/.git_update.sh.swp
+Already up to date.
+date
+[main 9c73f57] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+Already up to date.
+date
+[main d69c8d6] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+Already up to date.
+Date : 08/04/2022 Time : 23.59.02
+[main ffc305e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.00.01
+[main a50732a] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.01.02
+[main a137fb5] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.02.01
+[main 5ceda16] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+Already up to date.
+Date : 09/04/2022 Time : 00.03.02
+[main cd82f62] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.04.01
+[main 56f8461] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 17 insertions(+)
+ create mode 100644 webdesign/.git_update.sh.swp
+Already up to date.
+Date : 09/04/2022 Time : 00.05.02
+[main 568c2fa] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+)
+ delete mode 100644 webdesign/.git_update.sh.swp
+Already up to date.
+Date : 09/04/2022 Time : 00.06.01
+[main 9ee388b] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.07.02
+[main 196d68b] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 17 insertions(+)
+ create mode 100644 webdesign/.git_update.sh.swp
+Already up to date.
+Date : 09/04/2022 Time : 00.08.01
+[main d58e078] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+ delete mode 100644 webdesign/.git_update.sh.swp
+Already up to date.
+Date : 09/04/2022 Time : 00.09.02
+[main 161506b] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.10.01
+[main b9e3e47] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.11.02
+[main a3da82e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.12.01
+[main 735872c] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.13.02
+[main c651c46] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.14.01
+[main 1667d35] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.15.02
+[main 351ed82] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.16.01
+[main 9441e63] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.17.02
+[main 9142d47] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.18.01
+[main 5ee7fd6] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.19.02
+[main c76fb2f] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.20.01
+[main 665f667] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Merge made by the 'recursive' strategy.
+ webdesign/index.html | 1 +
+ 1 file changed, 1 insertion(+)
+Date : 09/04/2022 Time : 00.21.02
+[main 34237cb] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.22.02
+[main 76cd577] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.23.01
+[main f1aa2c7] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Merge made by the 'recursive' strategy.
+ webdesign/index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Date : 09/04/2022 Time : 00.24.02
+[main 556a94a] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.25.01
+[main c10e7b9] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Merge made by the 'recursive' strategy.
+ webdesign/index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Date : 09/04/2022 Time : 00.26.02
+[main 604edec] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.27.01
+[main 9234cbb] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.28.02
+[main 43bc86d] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Merge made by the 'recursive' strategy.
+ webdesign/index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Date : 09/04/2022 Time : 00.29.01
+[main e483aea] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.30.02
+[main 33f1518] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.31.02
+[main bd461fc] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.32.01
+[main 777ac43] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.33.02
+[main 12f180b] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.34.01
+[main ca3b517] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.35.02
+[main fc8fe31] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.36.01
+[main ff163ba] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.37.02
+[main 45d4f56] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.38.01
+[main 0954a9e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.39.02
+[main 320ae0f] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.40.01
+[main f282d7f] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.41.02
+[main b002c9d] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.42.01
+[main 3b984d1] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.43.02
+[main 82f4ffb] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.44.01
+[main 450f7a8] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.45.02
+[main 153ffa8] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.46.01
+[main 2a02825] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.47.02
+[main 662fcc4] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.48.01
+[main f6aee89] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.49.02
+[main 39cc2cb] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.50.02
+[main c1d6f4e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.51.02
+[main 25f12f5] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.52.02
+[main 566f213] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.53.01
+[main 7b2051e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.54.02
+[main 94d1bb8] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.55.01
+[main edf3a57] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.56.02
+[main 476079d] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.57.01
+[main 8736e80] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.58.02
+[main 392de47] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 00.59.01
+[main 1d5f010] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.00.02
+[main 6c7be9b] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.01.02
+[main 96f0f79] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.02.01
+[main a75a786] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.03.02
+[main e8488c6] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.04.01
+[main 4ba8253] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.05.02
+[main e05c662] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.06.01
+[main c36c0e9] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.07.02
+[main bcd0e27] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.08.01
+[main 1ca1e0a] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.09.02
+[main 5d9a636] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.10.01
+[main 483967d] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.11.02
+[main c0d31ea] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.12.01
+[main 445927c] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.13.02
+[main 9db32d5] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.14.01
+[main 909d11e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.15.02
+[main bf2498e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.16.01
+[main b8f8067] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.17.02
+[main 660d25f] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.18.01
+[main 636a688] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.19.02
+[main 0c156d1] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.20.01
+[main c08f47b] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.21.02
+[main 7c6e2a0] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.22.01
+[main bf07555] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.23.02
+[main ee66017] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.24.01
+[main 22c9e0c] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.25.02
+[main f59c446] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.26.01
+[main 7efcc2e] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.27.02
+[main 813ef22] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.28.01
+[main ea9e3fb] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.29.02
+[main b21d2a3] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.30.01
+[main 229072f] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.31.02
+[main 9f6d1fa] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.32.01
+[main 8ce0abb] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.33.02
+[main ad2d5e2] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.34.01
+[main 92c32a8] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.35.02
+[main c08f4c1] Latest Index Update
+ Committer: root <root@DESKTOP-HOB3O8I.localdomain>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+Already up to date.
+Date : 09/04/2022 Time : 01.36.01

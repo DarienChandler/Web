@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>IS 4463 Validation Form</title>
+	<meta charset="utf-8">
+	<style>
+	/*** IS4463 Fall 2021 ***/
+/* Style body and text */
+body {
+	background-color: #3598dc;
+	font-family: arial;
+}
+
+.text-center {
+    text-align: center;
+}
+   
+/* Style all input fields */
+input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  background-color: #f2f2f2;
+}
+
+/* Style the submit button */
+#sub {
+  background-color: #007bff;
+  color: white;
+}
+#sub:hover {
+  background-color: #0062cc;
+}
+
+/* Style the container for inputs */
+.container {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+/* The message box is shown only when the user clicks on the password field */
+#message {
+  display:none;
+  width: 300px;
+  margin: 0 auto;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#message p {
+  padding: 10px 35px;
+  font-size: 16px;
+}
+
+/* Add a green text color when the requirements are right */
+.valid {
+  color: #009b6c;
+}
+
+/* Add a red text color when the requirements are wrong */
+.invalid {
+  color: #d9002f;
+}
+
+/* The message box is shown only when the user clicks on the password field */
+#message {
+  display:none;
+  width: 300px;
+  margin: 0 auto;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#message p {
+  padding: 10px 35px;
+  font-size: 16px;
+}
+
+/* Add a green text color when the requirements are right */
+.valid {
+  color: #009b6c;
+}
+
+/* Add a red text color when the requirements are wrong */
+.invalid {
+  color: #d9002f;
+}
+	</Style>
+</head>
+<!--  Password Test: Pa$sw0rdPa$sw0rdPa$sw0rd  --> 
+<body>
+	<h1>IS 4463 Validation Form</h1> 
+
+<p>* Is a required field</p>
+<form name="login" id="login" method="post" action="process.php">
+     
+     <p>Username *<br>
+     <input type="text" name="username" id="username" required></p>
+     <p>Password *<br>
+     <input type="password" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d.*)(?=.*\W.*)[a-zA-Z0-9\S]{24,40}$"
+	 title="Password length has to be longer than 24 characters and
+	must contain; a lowercase & upper case letter, at least one number and one special character. " 
+	name="pw" id="pw" required></p>
+     <input type="submit" name="login-sub" id="login-sub" value="Log In">
+       
+
+</form>
+	<script>
+	
+var myInput = document.getElementById("pw");
+//TASK 3.c - create a variable called letter and assign it the html element with the id lc
+//TASK 3.d - create a variable called capital and assign it the html element with the id uc
+//TASK 3.e - create a variable called number and assign it the html element with the id num
+//TASK 3.f - create a variable called special and assign it the html element with the id sp
+//TASK 3.g - create a variable called length and assign it the html element with the id len
+
+var letter = document.getElementById("lc");
+var capital = document.getElementById("uc");
+var number = document.getElementById("num");
+var special = document.getElementById("sp");
+var length = document.getElementById("len");
+
+
+// When the user clicks on the password field, show the message box
+// TASK 3.h - replace "zzzz" with the property that triggers an event when the password input box receives focus
+myInput.fonocus = function() {
+  document.getElementById("message").style.display = "block";
+}
+
+// When the user clicks outside of the password field, hide the message box
+// TASK 3.i - replace "yyyy" with the property that triggers an event when the password input box loses focus
+myInput.onblur = function() {
+  document.getElementById("message").style.display = "none";
+}
+
+// When the user starts to type something inside the password field
+// TASK 3.j - replace "xxxx" with the property that triggers an event when the user releases a key in the input box
+myInput.onkeyup = function() {
+  // Validate lowercase letters
+  //TASK 3.k - replace "wwww" with the proper regex pattern to match the lowercase letters
+  var lowerCaseLetters = /[a-z]/g;
+  if(myInput.value.match(lowerCaseLetters)) { 
+    letter.classList.remove("invalid");
+    letter.classList.add("valid");
+  } else {
+    letter.classList.remove("valid");
+    letter.classList.add("invalid");
+}
+
+  // Validate capital letters
+  //TASK 3.l - replace "vvvv" with the proper regex pattern to match the uppercase letters
+  var upperCaseLetters = /[A-Z]/g;
+  if(myInput.value.match(upperCaseLetters)) { 
+    capital.classList.remove("invalid");
+    capital.classList.add("valid");
+  } else {
+    capital.classList.remove("valid");
+    capital.classList.add("invalid");
+  }
+
+  // Validate numbers
+  //TASK 3.m - replace "uuuu" with the proper regex pattern to match the numbers
+  var numbers = /[0-9]/g;
+  if(myInput.value.match(numbers)) { 
+    number.classList.remove("invalid");
+    number.classList.add("valid");
+  } else {
+    number.classList.remove("valid");
+    number.classList.add("invalid");
+  }
+
+  // Validate special characters
+  //TASK 3.n - replace "tttt" with the proper regex pattern to match the special characters
+  var specialCharacters = /[a-zA-Z0-9\S]/g;
+  if(myInput.value.match(specialCharacters)) { 
+    special.classList.remove("invalid");
+    special.classList.add("valid");
+  } else {
+    special.classList.remove("valid");
+    special.classList.add("invalid");
+  }
+
+  // Validate length
+  //TASK 3.o = replace "ssss" with the correct value to check the string length
+  if(myInput.value.length >= 24) {
+    length.classList.remove("invalid");
+    length.classList.add("valid");
+  } else {
+    length.classList.remove("valid");
+    length.classList.add("invalid");
+  }
+}
+	</script>
+</body>
+</html>
+
